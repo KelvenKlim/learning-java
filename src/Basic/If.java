@@ -1,7 +1,7 @@
-package Basic;
 /*Autor: Kelven Prasad
  * Descrição: Algoritmo para entender conceitos básicos das instrunções IF e Else
  */
+package Basic;
 
 
 import java.util.Scanner;
