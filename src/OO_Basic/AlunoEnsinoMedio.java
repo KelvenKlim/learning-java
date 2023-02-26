@@ -1,4 +1,4 @@
-package OO;
+package OO_Basic;
 
 public class AlunoEnsinoMedio extends Aluno {
         

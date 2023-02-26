@@ -1,4 +1,4 @@
-package OO;
+package OO_Basic;
 
 public class Principal {
     public static void main(String[] args) {

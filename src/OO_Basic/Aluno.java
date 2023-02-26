@@ -1,4 +1,4 @@
-package OO;
+package OO_Basic;
 
 public abstract class Aluno extends Pessoa implements Media {
     double teste, prova;
